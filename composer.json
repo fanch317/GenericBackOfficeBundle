@@ -1,5 +1,5 @@
 {
-    "name": "fanch317/GenericBackOffice",
+    "name": "fanch317/genericbackoffice",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "A generic back-office for basic API or generate XML/JSON",
