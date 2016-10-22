@@ -1,0 +1,23 @@
+{
+    "name": "fanch317/GenericBackOffice",
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "description": "A generic back-office for basic API or generate XML/JSON",
+    "keywords": ["backoffice","xml", "json", "api", "web service"],
+    "homepage": "https://github.com/fanch317/GenericBackOfficeBundle",
+    "authors": [
+        {
+            "name": "François Cariou",
+            "email": "fanch-bundle@qth.fr",
+            "homepage": "http://www.qth.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": { "Fanch317\\Bundle\\GenericBackOffice": "" }
+    },
+    "target-dir": "fanch317/Bundle/GenericBackOffice",
+    "minimum-stability": "dev"
+}
