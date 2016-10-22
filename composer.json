@@ -16,8 +16,7 @@
         "php": ">=5.5.9"
     },
     "autoload": {
-        "psr-4": { "Fanch317\\Bundle\\GenericBackOffice": "" }
+        "psr-4": { "Fanch317\\GenericBackOffice\\": "" }
     },
-    "target-dir": "fanch317/Bundle/GenericBackOffice",
     "minimum-stability": "dev"
 }
